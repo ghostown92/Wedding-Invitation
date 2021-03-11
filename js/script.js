@@ -1,5 +1,5 @@
 /**
- * @author Vinit Shahdeo <vinitshahdeo@gmail.com>
+ * @author Mohd Furqan <mohd.furqan92@gmail.com>
  */
 (function ($) {
     "use strict";
@@ -8,7 +8,7 @@
 
 
 // Set the date we're counting down to
-var countDownDate = new Date("March 09, 2021 17:00:00").getTime();
+var countDownDate = new Date("July 11, 2021 17:00:00").getTime();
 
 // Update the count down every 1 second
 var x = setInterval(function() {
